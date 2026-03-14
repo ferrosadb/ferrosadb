@@ -211,6 +211,6 @@ The `.deb` package includes:
 | `/etc/ferrosa/` | Configuration directory |
 | `/var/lib/ferrosa/` | Data directory |
 
-## License
+## Copyright
 
-Apache-2.0
+Copyright 2026 Ferrosa Contributors. All rights reserved.

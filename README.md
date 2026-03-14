@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ferrosadb.com/logo.svg" alt="Ferrosa" width="280">
+  <img src="logo.svg" alt="Ferrosa" width="280">
 </p>
 
 <h3 align="center">Cassandra Reimagined in Rust, Backed by S3</h3>

@@ -114,8 +114,8 @@ Built on `ArcSwap` for lock-free reads, sharded memtables, and channel-based tas
 ### Install (Debian/Ubuntu)
 
 ```bash
-wget https://github.com/ferrosadb/ferrosadb/releases/latest/download/ferrosa_0.1.0_amd64.deb
-sudo dpkg -i ferrosa_0.1.0_amd64.deb
+wget https://github.com/ferrosadb/ferrosadb/releases/latest/download/ferrosa_1.0.0-beta.1_amd64.deb
+sudo dpkg -i ferrosa_1.0.0-beta.1_amd64.deb
 sudo systemctl start ferrosa
 ```
 

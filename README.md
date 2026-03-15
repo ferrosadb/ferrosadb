@@ -11,9 +11,15 @@
   <a href="https://ferrosadb.com/cql-compatibility.html">CQL Compatibility</a>
 </p>
 
+<p align="center">
+  <strong>v1.0.0-beta.1 is now available!</strong> <a href="https://github.com/ferrosadb/ferrosadb/releases/latest">Download the release</a>.
+</p>
+
 ---
 
 Ferrosa is a **drop-in Cassandra replacement** built from scratch in Rust with S3-backed storage. Same CQL. Same drivers. Zero GC pauses, ephemeral nodes, native graph queries, and 10x lower storage costs.
+
+> **Source coming soon.** Ferrosa is currently distributed as pre-built binaries. Source code will be published in a future release.
 
 ## Why Ferrosa?
 
